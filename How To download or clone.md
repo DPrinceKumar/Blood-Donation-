@@ -1,6 +1,6 @@
 # GitHub Basic
 ###### **To add this program in your repo follow these steps**
-
+###### please install font for better experience 
 ```
 ~ $ git init
 
