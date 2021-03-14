@@ -119,24 +119,25 @@ list-style-type: none;
 }
 .Learn-more span{
     color: red;
-text-transform: uppercase;
+    text-transform: uppercase;
 }
 .side-bar{
     height: 6cm;
     width:6cm;
     background-color: royalblue;
-    margin-left: 4cm;
+    margin-left: 3cm;
     color: white;
     float:left;
-    margin-top: -14cm;
+    margin-top: -450px;
     border-radius: 20px;
-    list-style: none;
+    padding: 0px 10px 0px 20px;
 }
-.side-bar li{
+.side-bar ul{
     list-style: none;
     font-size: 15px;
-    margin-left: 10px;
-    margin-top: 20px;
+}
+.side-bar ul li{
+    margin-top: 35px;
 }
 .side-bar hr{
     margin: 10px;
